@@ -1,0 +1,21 @@
+Prettier - Code formatter (extention)
+
+CRA / VITE
+
+npm create vite@latest (provide appName then select react then select Typescript)
+
+npm install / npm install --legacy-peer-deps
+
+npm run dev
+
+npm i bootstrap
+
+es7+
+
+React Developer Tools
+
+git:-
+
+git init
+
+git remote add origin git@github.com:Sannusharma02/react-app.git
